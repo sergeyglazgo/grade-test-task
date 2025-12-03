@@ -1,7 +1,7 @@
 ### Clone repository
 
 ```bash
-git clone <https://github.com/sergeyglazgo/grade-test-task>
+git clone https://github.com/sergeyglazgo/grade-test-task
 cd grade-test-task
 ```
 ## Project Setup
